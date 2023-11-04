@@ -3,3 +3,5 @@
 # Salvando modificações no Git!@
 
 # Colocando mais alterações
+
+*comando git push
